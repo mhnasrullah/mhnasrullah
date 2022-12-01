@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Muhammad Hasan Nasrullah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+## :sassy_man:  About me
+- :school: I am a `undergraduate student` at Faculty of Computers Science at Brawijaya University
+- :computer: I am a Web Programmer, especially as Front-End Web Developer
+- :student: I’m currently learning: `Information Technology`
 <!--
 **mhnasrullah/mhnasrullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
